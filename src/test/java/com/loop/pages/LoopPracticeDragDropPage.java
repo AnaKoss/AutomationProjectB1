@@ -17,8 +17,6 @@ public class LoopPracticeDragDropPage {
     @FindBy(id="droptarget")
     public WebElement bigCircle;
 
-    @FindBy(name="Now drop...")
-    public WebElement NowDrop;
 
     public LoopPracticeDragDropPage (){ //created constractor
 
